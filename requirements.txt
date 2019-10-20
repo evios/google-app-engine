@@ -5,3 +5,10 @@ uvicorn
 python-multipart
 aiofiles
 aiohttp
+opencv-python
+scipy
+torch
+torchvision
+scikit-image
+keras==2.2.4
+tensorflow==1.13.1
