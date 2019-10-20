@@ -1,2 +1,8 @@
 runtime: custom
 env: flex
+
+resources:
+  disk_size_gb: 12
+
+readiness_check:
+  app_start_timeout_sec: 1000
